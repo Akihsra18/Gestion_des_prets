@@ -1,0 +1,41 @@
+body, html {
+    margin: 0;
+    height: 100%;
+}
+
+/*NavBar*/
+nav {
+    background-color: #092D74;
+}
+
+.fa-bars {
+    color: white;
+}
+
+.fa-bars:hover {
+    color: #CF152D;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #CF152D;
+}
+
+/*connexion.php*/
+#background {
+    background-color: #092D74;
+}
+
+#box {
+    background-color: #DFCCE4;
+    color: #092D74;
+    border-radius: 1rem;
+}
+
+#signInBtns {
+    background-color: #092D74;
+    color: #DFCCE4;
+}
