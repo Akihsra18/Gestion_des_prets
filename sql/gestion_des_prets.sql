@@ -105,6 +105,8 @@ INSERT INTO `usagers` (`id_usager`, `matricule`, `mot_de_passe`, `adresse_courri
 (9, 4567890, '94038465034c7fcea862797087a6a90ee557ff2a', '4567890@cegeptr.qc.ca', 'Etudiant'),
 (10, 5678901, '84dae7d90f71f2f3769318d984880bb4c7afc1b4', '5678901@cegeptr.qc.ca', 'Etudiant');
 
+/* => Le mot de passe d'un usager est le même que son matricule <= */
+
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
